@@ -1,4 +1,4 @@
-OVID Data Analysis 🦠📊
+COVID Data Analysis 🦠📊
 This repository contains a Jupyter Notebook that explores and analyzes COVID-19 data. The analysis focuses on trends, comparisons, and insights derived from publicly available datasets.
 
 📁 File Description
