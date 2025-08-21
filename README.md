@@ -1,32 +1,47 @@
-COVID Data Analysis 🦠📊
-This repository contains a Jupyter Notebook that explores and analyzes COVID-19 data. The analysis focuses on trends, comparisons, and insights derived from publicly available datasets.
+COVID-19 Data Analysis
 
-📁 File Description
-COVID_Data.ipynb — A Jupyter Notebook that performs data analysis and visualization on COVID-19-related data, such as:
+This project analyzes global COVID-19 data, focusing on confirmed cases, recoveries, and deaths across different countries.
 
-Case trends over time
+🔍 Key Insights
 
-Country-wise comparisons
+United States (US)
 
-Death and recovery rates
+Highest number of confirmed cases.
 
-📌 Features
-Data cleaning and preprocessing
+Reports deaths but also shows some recovery trends.
 
-Exploratory Data Analysis (EDA)
+Brazil
 
-Time series visualizations
+Similar to the US with many confirmed cases.
 
-Comparative analytics across regions/countries
+Recoveries are present but still concern remains.
 
-Graphical outputs using matplotlib, seaborn, or similar libraries
+India
 
-⚙️ Requirements
-To run this notebook, make sure you have the following Python packages installed:
+Shows good recovery rates despite its huge population.
 
-pandas
-numpy
-matplotlib
-seaborn
-jupyter notebook
+Plays a positive role in pandemic control.
 
+Papua New Guinea
+
+Reports a noticeable increase in cases within a week.
+
+Holy See, Grenada, and Dominica
+
+Demonstrated strong healthcare response.
+
+Reported no deaths linked to COVID-19.
+
+📈 Data Visualization
+
+Graphs highlight weekly increases, recoveries, and death rates.
+
+Comparisons between high-burden countries (US, Brazil, India) and small nations.
+
+Conclusion
+
+The US and Brazil face major challenges due to high case numbers.
+
+India stands out with a large recovery base despite population size.
+
+Small nations like Grenada and Dominica set examples of zero-death outcomes.
